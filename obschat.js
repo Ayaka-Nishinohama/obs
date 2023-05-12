@@ -1,5 +1,5 @@
 $(".MuiButtonBase-root").on("click", function () {
-    $(".sc-lbxAil").animate({
+    $(".MuiList-root").animate({
 	opacity: 0,
 	transform: translateX(150px);
     },
