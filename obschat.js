@@ -1,5 +1,5 @@
 $(".sc-lbxAil").on("click", function () {
-    $(".MuiButtonBase-root").animate({
+    $("button.MuiButtonBase-root").animate({
 	opacity: 0,
     },
     2000
