@@ -1,5 +1,5 @@
-$(sc-lbxAil).on("click", function () {
-    $(.MuiList-root>div:nth-child(1)).animate({
+$(".sc-lbxAil").on("click", function () {
+    $(".MuiList-root").animate({
 	opacity: 0,
     },
     2000
